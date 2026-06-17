@@ -1,19 +1,36 @@
-import java.util.Arrays;
+ class Solution {
+    public char processStr(String s, long k) {
+        StringBuilder result = new StringBuilder();
+        for(char st : s.toCharArray()){
+            if( st == '*' && result.length() >  0 ){
+                result.deleteCharAt(result.length()-1);
+            }else if( st == '#'){
+                if(result.length() > 0 )
+                    result.append(result);
+            }else if( st == '%' ){
+                result.reverse();
+            }else{
+                result.append(st);
+            }
+		if(result.length()-k > k)
+                break;
+        }
+		System.out.println(result);
+        int len = result.length();
+        if( len-1 < k || len == 0 ){
+            return '.';
+        }
 
-class Try{
-	public static void main(String[] args){
-		int arr[] = new int[4];
-		int arr1[] = new int[2];
-		arr = new int[] {2,7,11,15};
-		int target = 9;
-		for(int j=0 ; j<arr.length ;j++){
-			for(int i=j+1 ; i<arr.length ;i++){
-				if(arr[j]+arr[i]==target){
-					 arr1[0] = j;
-					 arr1[1] = i;
-				}
-			}
-		}
-		System.out.println("Index=" + Arrays.toString(arr1));
-	}
+        return result.charAt((int)k);
+    }
 }
+
+public class Try{
+        public static void main(String[] args){
+            Solution s = new Solution();
+            char a = s.processStr("%#bz%xum##i##vzo#pwc*#dkwbh####%uf%s*%cgppqhqa%h#l##o%ij%%cz%iga##e###u%#e####jfwx##%%*x%m*%#",6523);
+            System.out.print(a);
+        }
+}
+
+
