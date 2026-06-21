@@ -1,36 +1,31 @@
- class Solution {
-    public char processStr(String s, long k) {
-        StringBuilder result = new StringBuilder();
-        for(char st : s.toCharArray()){
-            if( st == '*' && result.length() >  0 ){
-                result.deleteCharAt(result.length()-1);
-            }else if( st == '#'){
-                if(result.length() > 0 )
-                    result.append(result);
-            }else if( st == '%' ){
-                result.reverse();
-            }else{
-                result.append(st);
+class Try{
+    public static void main(String[] args) {
+         
+        int[] arr = {5,2,7,6,4,8,9,7,3,2};
+        int N = arr.length;
+        int max = Integer.MIN_VALUE;
+        for(int i=0; i<N; i++){
+            if(arr[i] > max){
+                max = arr[i];
             }
-		if(result.length()-k > k)
-                break;
         }
-		System.out.println(result);
-        int len = result.length();
-        if( len-1 < k || len == 0 ){
-            return '.';
+        int[] count = new int[max+1];
+        for(int i=0; i<max+1; i++){
+            count[i] = 0;
         }
-
-        return result.charAt((int)k);
+        for(int i=0; i<N; i++){
+            count[arr[i]]++;
+        }
+        int j = 0;
+        for(int i=0; i<max+1; i++){
+            while(count[i] > 0){
+                arr[j] = i;
+                j++;
+                count[i]--;
+            }
+        }
+        for(int i=0; i<N; i++){
+            System.out.print(arr[i] + " ");
+        }
     }
 }
-
-public class Try{
-        public static void main(String[] args){
-            Solution s = new Solution();
-            char a = s.processStr("%#bz%xum##i##vzo#pwc*#dkwbh####%uf%s*%cgppqhqa%h#l##o%ij%%cz%iga##e###u%#e####jfwx##%%*x%m*%#",6523);
-            System.out.print(a);
-        }
-}
-
-
