@@ -15,6 +15,7 @@ Topics covered:
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -39,4 +40,12 @@ Topics covered:
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
