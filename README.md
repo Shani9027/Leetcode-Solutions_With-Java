@@ -19,6 +19,7 @@ Topics covered:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -75,10 +76,12 @@ Topics covered:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
