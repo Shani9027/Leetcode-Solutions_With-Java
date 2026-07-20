@@ -27,6 +27,7 @@ Topics covered:
 | [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,6 +57,7 @@ Topics covered:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0217-contains-duplicate) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -113,6 +115,7 @@ Topics covered:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
