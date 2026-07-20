@@ -14,6 +14,7 @@ Topics covered:
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +27,7 @@ Topics covered:
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,12 +49,14 @@ Topics covered:
 | ------- |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -63,6 +67,7 @@ Topics covered:
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
 |  |
@@ -111,5 +116,14 @@ Topics covered:
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
