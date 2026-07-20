@@ -66,6 +66,7 @@ Topics covered:
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -89,6 +90,7 @@ Topics covered:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -134,4 +136,8 @@ Topics covered:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
