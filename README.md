@@ -15,6 +15,7 @@ Topics covered:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0263-ugly-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
