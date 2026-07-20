@@ -65,6 +65,7 @@ Topics covered:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -130,4 +131,8 @@ Topics covered:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
