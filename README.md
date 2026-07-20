@@ -32,6 +32,7 @@ Topics covered:
 | [0322-coin-change](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
+| [1260-shift-2d-grid](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
@@ -129,6 +130,7 @@ Topics covered:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -159,4 +161,8 @@ Topics covered:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
