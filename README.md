@@ -76,6 +76,7 @@ Topics covered:
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -127,6 +128,7 @@ Topics covered:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
