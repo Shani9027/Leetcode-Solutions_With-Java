@@ -130,6 +130,7 @@ Topics covered:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -169,6 +170,7 @@ Topics covered:
 | [0032-longest-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -196,9 +198,11 @@ Topics covered:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
