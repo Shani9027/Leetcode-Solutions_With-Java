@@ -44,6 +44,7 @@ Topics covered:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0322-coin-change) |
@@ -75,6 +76,7 @@ Topics covered:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -162,6 +164,7 @@ Topics covered:
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
