@@ -16,6 +16,7 @@ Topics covered:
 | ------- |
 | [0258-add-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -35,6 +36,7 @@ Topics covered:
 | [0322-coin-change](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1260-shift-2d-grid](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -138,6 +140,7 @@ Topics covered:
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3536-maximum-product-of-two-digits) |
