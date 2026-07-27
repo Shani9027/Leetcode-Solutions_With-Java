@@ -40,6 +40,7 @@ Topics covered:
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1260-shift-2d-grid](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -142,6 +143,7 @@ Topics covered:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -233,4 +235,8 @@ Topics covered:
 | [0101-symmetric-tree](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
