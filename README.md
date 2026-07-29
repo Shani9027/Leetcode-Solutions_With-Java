@@ -23,6 +23,7 @@ Topics covered:
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -76,6 +77,7 @@ Topics covered:
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ Topics covered:
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -186,10 +189,12 @@ Topics covered:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
 |  |
 | ------- |
