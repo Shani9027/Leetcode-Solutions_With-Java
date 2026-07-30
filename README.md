@@ -32,6 +32,7 @@ Topics covered:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0300-longest-increasing-subsequence) |
@@ -72,6 +73,7 @@ Topics covered:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
