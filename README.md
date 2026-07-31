@@ -79,6 +79,7 @@ Topics covered:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -102,6 +103,7 @@ Topics covered:
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -141,6 +143,7 @@ Topics covered:
 | [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -156,6 +159,7 @@ Topics covered:
 | [0628-maximum-product-of-three-numbers](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -198,6 +202,7 @@ Topics covered:
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
