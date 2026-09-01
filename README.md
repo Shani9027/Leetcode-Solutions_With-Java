@@ -75,6 +75,7 @@ Topics covered:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0740-delete-and-earn](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0740-delete-and-earn) |
@@ -100,6 +101,7 @@ Topics covered:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -263,4 +265,8 @@ Topics covered:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
