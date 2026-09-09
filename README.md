@@ -131,6 +131,7 @@ Topics covered:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0234-palindrome-linked-list) |
@@ -231,6 +232,7 @@ Topics covered:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shani9027/Leetcode-Solutions_With-Java/tree/master/0234-palindrome-linked-list) |
